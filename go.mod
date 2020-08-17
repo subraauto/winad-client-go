@@ -1,4 +1,4 @@
-module github.com/surajsub/winad-client-go
+module github.com/subraauto/winad-client-go
 
 go 1.13
 
